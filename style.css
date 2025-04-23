@@ -333,8 +333,10 @@ section.portfolio .flex{
     margin-top: 60px;
 }
 
+
 .img-port{
-    width: 360px;
+    margin: 20px;
+    width: 260px;
     height: 460px;
     background-size: cover;
     background-position: 100% 0%;
