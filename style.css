@@ -6,7 +6,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background-color:#5e8fa3;
+    background-color:#000000;
     height: 100vh;
    
 }
@@ -32,7 +32,7 @@ p{
     padding: 10px 40px;
     font-size: 18px;
     font-weight: 600;
-    background-color:#bff1ff;
+    background-color:#71b4c0;
     border: 0;
     border-radius: 30px;
     cursor: pointer;
@@ -41,26 +41,26 @@ p{
 
 
 h2.titulo{
-    color: aliceblue;
+    color: #f3fcfc;
     font-size: 38px;
     text-align: center;
 
 }
 
 h2.titulo span{
-    color: #bff1ff;
+    color: #71b4c0;
 }
 
 
  button:hover, form .btn-enviar input:hover{
-    box-shadow: 0px 0px 8px  #00ff08;
+    box-shadow: 0px 0px 8px  #5e8fa3;
     transform:scale(1.05) ;
 }
 
 /*estilo do cabeçalho*/
 header{
     padding:0px 4%;
-    background-color: #8ec0d1;
+    background-color:#080808;
    
 }
 
@@ -113,13 +113,13 @@ header nav.menu-desktop ul li{
 }
 
 .btn-abrir-menu i{
- color: #bff1ff;
+ color: #a8ecff;
  font-size: 40px;
 
 }
 
 .menu-mobile{
-    background-color: #5e8fa3;
+    background-color: #75bfd3;
     height: 100vh;
     position: fixed;
     top: 0;
@@ -399,7 +399,7 @@ section.portfolio .flex{
 
 h4 {
     vertical-align: baseline;
-    font-size: 11px;
+    font-size: 12px;
 
 }
 
